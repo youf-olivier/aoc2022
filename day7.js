@@ -1,4 +1,3 @@
-const internal = require("stream");
 const { getData, fullLog } = require("./utils");
 const input = getData("./day7.txt");
 
